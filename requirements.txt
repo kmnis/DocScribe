@@ -10,7 +10,8 @@ sentencepiece==0.1.97
 tensorboardX==2.6
 gradio==3.23.0
 seaborn==0.12.2
-ipykernel ipywidgets
+ipykernel
+ipywidgets
 tensorboard==2.12.2
 langchain==0.0.154
 sentence_transformers==2.2.2
