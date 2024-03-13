@@ -60,10 +60,3 @@ Our model has successfully achieved its objectives of extracting patient informa
 ## Model Improvement Research
 - Training base model on medical corpus and incorporating human feedback.
 - Explore the use of the medical LLM for research and clinical trials, including medical image analysis.
-
-## Thank You!
-We appreciate your interest in our project and thank you for your support!
-
-For more information and to access the codebase, please visit our GitHub repository.
-
-[WIP]: More details to be added soon
