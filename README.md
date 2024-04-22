@@ -10,7 +10,7 @@ DocScribe is a medical question-and-answer chatbot that revolutionizes how we in
 
 ## Architecture
 DocScribe's architecture facilitates a seamless interaction between users and medical data. It incorporates:
-- A Jupyter Notebook-based Web UI for uploading reports and further interaction
+- A Jupyter Notebook-based Web UI for uploading reports and further interaction.
 - The creation of embeddings and indexes from medical transcripts.
 - The utilization of LangChain and HuggingFace frameworks for processing and answering questions.
 
