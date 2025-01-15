@@ -108,3 +108,7 @@ jupyter notebook
 - Manish Kumar (mnis@uchicago.edu)
 - Kargil Thakur (kargil@uchicago.edu)
 - Ekansh Trivedi (ekansh@uchicago.edu)
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kmnis/DocScribe&type=Date)](https://star-history.com/#kmnis/DocScribe&Date)
